@@ -39,8 +39,7 @@ if temp_num == 2:
     silly_word = input('Input silly word:')
     noun2 = input('Input noun:')
     print("This weekend I am going camping with {}. I packed my lantern, sleeping bag, and {}. I am so {} to {} in a tent. I am {} we might see a(n) {}, I hear they're kind of dangerous. While we're camping, we are going to hike, fish and {}. I have heard that the {} lake is great for {}. Then we will {} hike through the forest for {} {}. If I see a {} {} while hiking, I am going to bring it home as a pet! At night we will tell {} {} stories and roast {} around   campfire!!".format(proper_noun, noun, adj, verb, adj2, animal, verb2, color, gerund, adverb, num, measure_of_time, color, animal, num, silly_word, noun2))
-
-
+    
 if temp_num == 3:
     proper_noun = input("Input person's name:")
     adj = input('Input adjective:')
